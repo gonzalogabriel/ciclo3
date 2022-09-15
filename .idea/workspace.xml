@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="">
+    <list default="true" id="8d78257a-36da-4d01-9659-df657bde4083" name="Changes" comment="Nueva VERSION">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciclo3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ciclo3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +75,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "spring.configuration.checksum": "7400e973fc97b086c30d39e7b9a86904"
   }
 }]]></component>
@@ -114,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660647421686</updated>
-      <workItem from="1663201344457" duration="186000" />
+      <workItem from="1663201344457" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="Hola mundo!">
       <created>1660655304643</created>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662725173512</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Nueva VERSION">
+      <created>1663201556069</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663201556069</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +237,7 @@
     <MESSAGE value="Full Stack (Pendientes algunos criterios)" />
     <MESSAGE value="Carpinteria" />
     <MESSAGE value="Navegación en el area de movimientos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navegación en el area de movimientos" />
+    <MESSAGE value="Nueva VERSION" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva VERSION" />
   </component>
 </project>
